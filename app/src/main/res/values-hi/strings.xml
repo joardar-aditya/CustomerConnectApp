@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ग्राहक संपर्क सुविधा </string>
+    <string name="Customer_list_heading">आपके ग्राहक </string>
+    <string name="empty_view_title_text">कृपया अपने ग्राहक इस सूचि में डालें </string>
+    <string name="empty_view_subtitle_text">और उनके साथ जुड़े रहे !</string>
+    <!--Menu options-->
+    <string name='action_help'>सहायता </string>
+    <!--Help Options-->
+    <string name="whatsapp_heading">व्हॉट्सएप्प BUSINESS से जुडी जानकारी </string>
+    <string name ="whatsapp_description">व्हॉट्सएप्प बिज़नेस एक एंड्राइड एप्प है जो की गूगल के प्ले स्टोर से मुफ्त में प्राप्त की जा सकती है । \n
+        इस एप्प को छोटे तथा माध्यम उद्योगों को धयान में रखकर बनाया गया है ।\n
+        व्हॉट्सएप्प बिज़नेस में अपने दूकान या उद्योग का खता बनाये और इस्सके प्रयोग से अपने ग्राहकों से सीधे जुड़े ।</string>
+    <string name = "whatsapp_download"><a href="https://play.google.com/store/apps/details?id=com.whatsapp.w4b&amp;hl=en_IN">व्हॉट्सएप्प बिज़नेस यहाँ क्लिक करके प्राप्त करें </a></string>
+    <string name = "app_help">ग्राहक को सूचि में कैसे जोड़ें </string>
+    <string name = "adding_customer_help">ग्राहक को सूचि में जोड़ने के लिए निचे दिए गए "प्लस" बटन को दबाये</string>
+    <string name = "name_help">नाम के सामने अपने ग्राहक का नाम डालें</string>
+    <string name = "phone_help">फ़ोन के सामने ग्राहक का फ़ोन नंबर डालें । (यह नंबर व्हॉट्सएप्प में होना चाहिए )</string>
+    <string name = "EMAIL_help"> ईमेल के सामने ग्राहक का ईमेल डालें ।</string>
+    <string name = "Amount_due_help">आप अपने ग्राहक के उधारी के बारें मं भी जानकारी दे सकते है। \n
+        सूचीमें में किसी ग्राहक को क्लिक करने पर आप उसकी जानकारी प्राप्त कर सकते है तथा उनमें बदलाव कर सकते है ।\n
+        कृपया ग्राहक के उधारी की जानकारी समय समय पर परखते रहे और बदलाव भी करें , एवं ग्राहक को उनकी उधारी के बारें में जानकारी भी दे ।\n
+        सूचना भेजे" बटन  दबाने पर व्हॉट्सएप्प के माध्यम से तय सूचना आपके ग्राहक तक पहुँच जाएगी । </string>
+
+
+    <!--Message Activity-->
+    <string name="Message_heading">ग्राहक किस कारण से आये थे </string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Customer Connect App</string>
+    <string name="Customer_list_heading">Your Customers</string>
+    <string name="empty_view_title_text">Please add some customers</string>
+    <string name="empty_view_subtitle_text">And stay connected with them ever after</string>
+    <!--Menu options-->
+    <string name='action_help'>Help</string>
+    <!--Help Options -->
+    <string name="whatsapp_heading">Regarding WhatsApp Business</string>
+    <string name="whatsapp_description">WhatsApp Business is an Android app which is free to download, and was built with the small business owner in mind. With the app,
+        \nbusinesses can interact with customers easily by using tools to automate, sort, and quickly respond to messages\n</string>
+    <string name="whatsapp_download"><a href="https://play.google.com/store/apps/details?id=com.whatsapp.w4b&amp;hl=en_IN">Click Here to Download WhatsApp Business</a></string>
+    <string name="app_help">Adding Customers to the List</string>
+    <string name="adding_customer_help">To add a new Customer, click the button on Right bottom corner</string>
+    <string name="name_help">In Name Field - Add the Name of your Customer/Organisation</string>
+    <string name="phone_help">In Phone Field - Add the contact number of the Customer \n (The number should be available in WhatsApp to send regular Messages)</string>
+    <string name="EMAIL_help">In Email Field - Add the EMAIL ID of the customer</string>
+    <string name="Amount_due_help">In Amount Due Field - The Amount Customer hasn\'t paid so far... for the services On clicking on a customer option in the List...it takes you to their Details\n
+        Here you can edit the customer details \n You can send messages by clicking the Send Message Button.\n
+        The prerecorded message will be send to the customer via WhatApp Business</string>
+    <!-- EditorActivityOptions-->
+    <string name="EditorActivityHeading">Edit your Customer</string>
+    <string name="name_field">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="Email">E-Mail</string>
+    <string name="Amount_due">Amount Due for Payment</string>
+    <string name="Send_button">SEND MESSAGE</string>
+    <!--Message Activity-->
+    <string name="Message_heading">Customer Visited You for.....</string>
+
+</resources>
